@@ -1,1 +1,38 @@
+body {
+	background: rgb(215, 215, 215);
+	font-family: 'Roboto Condensed', sans-serif;
+	width: 500px;
+	margin: auto;
+	margin-top: 100px;
+}
 
+img {
+	height: 125px;
+	display: block;
+	margin-top: auto auto;
+	box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+h1 {
+	font-size: 150%;
+	font-style: bold;
+	color: rgb(115, 115, 115);
+}
+
+p {
+	font-size: 85%;
+}
+
+.contact1 {
+	color: rgb(115, 115, 115);
+}
+
+.contact2 {
+	float: right;
+	margin-right: 17em;
+	margin-top: -5em;
+}
