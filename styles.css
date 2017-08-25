@@ -9,7 +9,7 @@ body {
 img {
 	height: 125px;
 	display: block;
-	margin-left: -250px;
+	margin: 0 auto;
 	margin-top: auto auto;
 	box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
 }
