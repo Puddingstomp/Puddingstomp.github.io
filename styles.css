@@ -10,7 +10,7 @@ img {
 	height: 125px;
 	display: block;
 	margin: auto;
-	box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+	box-shadow: 2px 0px 2px 0px rgba(0, 0, 50, 0.97);
 }
 
 .img-circle {
@@ -33,6 +33,6 @@ p {
 
 .contact2 {
 	float: right;
-	margin-right: 17em;
-	margin-top: -5em;
+	margin-right: 50%;
+	margin-top: -16.5%;
 }
