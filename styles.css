@@ -30,10 +30,10 @@ p {
 .contact1 {
 	float: left;
 	color: rgb(115, 115, 115);
-	padding: 5px, 5px, 5px, 0px;
+	padding: 2%, 2%, 2%, 0%;
 }
 
 .contact2 {
 	float: center;
-	padding: 5px;
+	padding: 2%;
 }
