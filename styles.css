@@ -27,13 +27,17 @@ p {
 	font-size: 85%;
 }
 
+.footer {
+	padding: 0% 20% 0% 25%;
+}
+
 .contact1 {
 	float: left;
 	color: rgb(115, 115, 115);
-	padding: 2%, 2%, 2%, 0%;
+	padding: 5%;
 }
 
 .contact2 {
 	float: center;
-	padding: 2%;
+	padding: 5%;
 }
