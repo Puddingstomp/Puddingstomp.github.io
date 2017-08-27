@@ -25,7 +25,6 @@ img {
 
 h1 {
 	font-size: 150%;
-	font-style: bold;
 	color: rgb(115, 115, 115);
 }
 
@@ -46,6 +45,6 @@ p {
 .contact2 {
 	width: 90px;
 	position: absolute;
-	left: 40%;
-	top: 113.3%;
+	left: 45%;
+	top: 49.5%;
 }
