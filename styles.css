@@ -1,5 +1,6 @@
 * {
 	box-sizing: border-box;
+	padding: 1px;
 }
 
 body {
@@ -32,17 +33,17 @@ p {
 
 .footer {
 	display: block;
+	position: relative;
 }
 
 .contact1 {
 	width: 150px;
-    position: static;
 	color: rgb(115, 115, 115);
 }
 
 .contact2 {
 	width: 90px;
 	position: absolute;
-	left: 45%;
-	top: 47.7%;
+	left: 35%;
+	bottom: 0;
 }
