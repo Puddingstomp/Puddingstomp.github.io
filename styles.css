@@ -28,15 +28,18 @@ p {
 }
 
 .footer {
-	padding: 5% 5% 5% 0%;
+	display: block;
 }
 
 .contact1 {
-	float: left;
+	width: 150px;
+    position: static;
 	color: rgb(115, 115, 115);
 }
 
 .contact2 {
-	float: center;
-	padding-left: 30%;
+	width: 90px;
+	position: absolute;
+	left: 40%;
+	top: 113.3%;
 }
