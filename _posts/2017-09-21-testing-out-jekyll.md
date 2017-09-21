@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "First blog post"
+title: "First Blog Post"
 ---
 
-# First Blog Post!
-
-## Testing out Jekyll
+# Testing out Jekyll!
 
 This post is just to test the implementation of Jekyll and
 to see how blog posts work within GitHub Pages. This is
