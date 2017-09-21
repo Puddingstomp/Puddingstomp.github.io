@@ -36,6 +36,14 @@ p {
 	font-size: 85%;
 }
 
+ul {
+	margin: 0;
+}
+
+li {
+	display: inline;
+}
+
 .footer {
 	display: block;
 	position: relative;
